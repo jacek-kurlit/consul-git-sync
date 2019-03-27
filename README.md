@@ -1,7 +1,7 @@
 Consul-Git-Sync
 ========
 `Consul-Git-Sync` is a java based tool helping to synchronize [consul](https://www.consul.io/) with properties from git repository.
-Beren is still under development phase!      
+Still under development phase!      
 
 ## Built With
 
